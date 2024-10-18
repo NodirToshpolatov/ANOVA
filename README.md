@@ -51,4 +51,4 @@ F-statistika:
 \[
 F = \frac{MSB}{MSW} = \frac{260.85}{3.3} = 79.05
 \]
-Endi buni nusxalashingiz mumkin!# ANOVA-one-way
+Endi buni nusxalashingiz mumkin!
